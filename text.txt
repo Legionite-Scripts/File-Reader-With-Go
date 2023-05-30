@@ -1,0 +1,1 @@
+This text would be printed out in the terminal sharp
